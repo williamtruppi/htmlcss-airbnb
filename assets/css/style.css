@@ -8,8 +8,8 @@
 .city_box{
   margin-top: 10px;
   margin-bottom: 20px;
-  width: 1000px;
-  height: 500px;
+  width: 80vw;
+  height: 100vh;
   position: relative;
   box-shadow: 5px 10px black;
 }
