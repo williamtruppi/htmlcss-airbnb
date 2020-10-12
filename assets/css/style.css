@@ -11,7 +11,7 @@
   width: 80vw;
   height: 100vh;
   position: relative;
-  box-shadow: 5px 10px black;
+  box-shadow: 5px 10px 8px black;
   background-size: cover;
   background-position: center;
 }
