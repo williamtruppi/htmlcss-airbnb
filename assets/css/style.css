@@ -12,30 +12,27 @@
   height: 100vh;
   position: relative;
   box-shadow: 5px 10px black;
+  background-size: cover;
+  background-position: center;
 }
 
 .overlay{
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.5);
+
 }
 
 .trento{
   background-image: url("../img/trento.jpg");
-  background-size: cover;
 }
 
 .bolzano{
   background-image: url("../img/bolzano.jpg");
-  background-size: cover;
-  background-position: center;
 }
 
 .riva{
   background-image: url("../img/riva.jpg");
-  background-size: cover;
-  background-position: center;
-  text-align: center;
 }
 
 .title{
