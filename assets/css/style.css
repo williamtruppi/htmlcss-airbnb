@@ -2,16 +2,15 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-}
-
-main{
   margin: auto;
 }
 
 .city_box{
+  margin-top: 10px;
   width: 1000px;
   height: 500px;
   position: relative;
+  box-shadow: 5px 10px black;
 }
 
 .overlay{
