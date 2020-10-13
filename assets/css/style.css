@@ -14,13 +14,17 @@
   box-shadow: 5px 10px 8px black;
   background-size: cover;
   background-position: center;
+  cursor: pointer;
 }
 
 .overlay{
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.5);
+}
 
+.city_box:hover .overlay{
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .trento{
